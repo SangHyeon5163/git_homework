@@ -1,2 +1,6 @@
 This is the first file
+<<<<<<< HEAD
 Branch at this commit
+=======
+This commit is on the sub branch
+>>>>>>> sub
